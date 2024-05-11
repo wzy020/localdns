@@ -2,20 +2,14 @@ package my.tools.localdns
 
 import android.app.AlertDialog
 import android.app.ProgressDialog
-import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.view.MotionEvent
 import android.view.View
-import android.view.inputmethod.InputMethodManager
-import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatEditText
 import androidx.appcompat.widget.SwitchCompat
-
-
 import java.lang.StringBuilder
 import kotlin.system.exitProcess
 
